@@ -92,10 +92,6 @@ npm run dev # or npm run build && npm run preview
 └── deploy.ps1     # PowerShell deployment script
 ```
 
-## License
-
-[MIT](LICENSE) — See LICENSE file for details.
-
 ---
 
 ## Acknowledgements
